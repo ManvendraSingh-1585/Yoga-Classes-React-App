@@ -1,6 +1,7 @@
 # Yoga-Classes-React-App
 
 Deployment Link - https://dazzling-cassata-9a41ac.netlify.app/
+(Note - website's Database is on freemysql cloud and backend is deployed on render and frontend is deployed on Netlify, so website may be responding little bit slower)
 
 Project Description-
 
